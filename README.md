@@ -1,9 +1,9 @@
 <h3>
 About Me
 </h3>
-👩‍💻 I’m a 2nd year Computer Science & Engineering student. <br>
-🌱 I’m currently learning Machine Learning using Python.<br>
-⚡ In my free time, I like to learn new things. <br>
+👩‍💻 2nd year Computer Science & Engineering student. <br>
+🌱 Currently learning Machine Learning using Python.<br>
+⚡ Like to learn new things in my free time. <br>
 ✍️ Exploring content writing. <br>
 🛠️ Languages and Tools:
   <div>
