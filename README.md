@@ -13,3 +13,9 @@ About Me
 How to reach me: <br>
 <div id="badges"><a href="https://www.linkedin.com/in/jumana-jouhar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>
 📫 jumanajouhar@gmail.com
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jumana-jouhar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jumana-jouhar?trk=profile-badge">Jumana Jouhar</a></div>
+              
