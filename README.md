@@ -2,8 +2,8 @@
 About Me
 </h3>
 👩‍💻 2nd year Computer Science & Engineering student. <br>
-🌱 Currently learning Machine Learning using Python.<br>
-⚡ Like to learn new things in my free time. <br>
+🌱 Currently learning Data Analytics using IBM Cognos.<br>
+⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content writing. <br>
 🛠️ Languages and Tools:
   <div>
