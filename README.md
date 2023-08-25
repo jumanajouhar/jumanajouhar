@@ -2,9 +2,9 @@
 About Me
 </h3>
 👩‍💻 2nd year Computer Science & Engineering student. <br>
-🌱 Currently learning Data Analytics using IBM Cognos.<br>
+🌱 Currently learning Web Integration using Flask and Data Analytics using IBM Cognos.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
-✍️ Exploring content writing. <br>
+✍️ Exploring content and report writing. <br>
 🛠️ Languages and Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt-"C" width="40" height="40"/>&nbsp;
