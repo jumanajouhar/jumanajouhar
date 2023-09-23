@@ -1,10 +1,11 @@
 <h3>
 About Me
 </h3>
-👩‍💻 2nd year Computer Science & Engineering student. <br>
-🌱 Currently learning Web Integration using Flask and Data Analytics using IBM Cognos.<br>
+👩‍💻 3rd year Computer Science & Engineering student. <br>
+🌱 Currently learning Cloud Computing and GenAI on Google Cloud Platform.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
+🧡 Interests: GenAI and Machine Learning. <br>
 🛠️ Languages and Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt-"C" width="40" height="40"/>&nbsp;
