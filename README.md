@@ -5,7 +5,7 @@ About Me
 🌱 Currently learning Cloud Computing and GenAI on Google Cloud Platform.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
-🧡 Interests: GenAI and Machine Learning. <br>
+🧡 Interests: Machine Learning. <br>
 🛠️ Languages and Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt-"C" width="40" height="40"/>&nbsp;
