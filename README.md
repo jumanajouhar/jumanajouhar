@@ -2,7 +2,7 @@
 About Me
 </h3>
 👩‍💻 3rd year Computer Science & Engineering student. <br>
-🌱 Currently learning Cloud Computing and GenAI on Google Cloud Platform.<br>
+🌱 Currently learning Applied Machine Learning in Python.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
 🧡 Interests: Machine Learning. <br>
