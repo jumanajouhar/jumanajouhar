@@ -17,8 +17,8 @@ About Me
 <h3>💻 GitHub Profile Stats</h3>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jumanajouhar"/>
 <h1 align="center"></h1>
-<img align="left" height="150px" width="250px" src="https://github-readme-stats.vercel.app/api?username=jumanajouhar&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=jumanajouhar&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <h3>🔥 Streak Stats</h3>
 <p>
