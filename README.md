@@ -26,7 +26,3 @@ About Me
 <img alt="Jumana's streak" src="https://streak-stats.demolab.com/?user=jumanajouhar&theme=dracula&hide_border=true&background=000000EE"/>
 </a>
 </p>
-<p align="center"> <img src="https://profile-counter.glitch.me/{jumanajouhar}/count.svg" alt="jumanajouhar" /> </p>
-<a href="https://github.com/jumanajouhar#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-  </a>
