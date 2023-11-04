@@ -17,3 +17,10 @@ About Me
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jumanajouhar&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jumanajouhar&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jumanajouhar&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+ </p>
