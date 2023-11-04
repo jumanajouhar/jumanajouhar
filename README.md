@@ -20,6 +20,7 @@ About Me
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jumanajouhar"/>
+<br>
 <h3>🔥 Streak Stats</h3>
 <p>
 <a href="#">
