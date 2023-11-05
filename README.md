@@ -25,9 +25,8 @@ About Me
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jumanajouhar"/>
-	  <br>
 <h3>🔥 Streak Stats</h3>
-	  <br>
+<h1 align="center"></h1>
 <p>
 <a href="#">
 <img alt="Jumana's streak" src="https://streak-stats.demolab.com/?user=jumanajouhar&theme=dracula&hide_border=true&background=000000EE"/>
