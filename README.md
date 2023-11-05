@@ -1,4 +1,3 @@
-https://minimalistic-wallpaper.demolab.com/?random
 <h3>
 About Me
 </h3>
