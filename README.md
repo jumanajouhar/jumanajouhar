@@ -22,7 +22,9 @@ About Me
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jumanajouhar&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
+<br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jumanajouhar"/>
+	  <br>
 <p>
 <a href="#">
 <img alt="Jumana's streak" src="https://streak-stats.demolab.com/?user=jumanajouhar&theme=dracula&hide_border=true&background=000000EE"/>
