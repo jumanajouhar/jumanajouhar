@@ -2,10 +2,10 @@
 About Me
 </h3>
 👩‍💻 3rd year Computer Science & Engineering student. <br>
-🌱 Currently learning Applied Machine Learning in Python.<br>
+🌱 Currently learning Applied Machine Learning in Python and Full Stack Web Development.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
-🧡 Interests: Machine Learning. <br>
+🧡 Interests: Machine Learning, Frontend Web Development. <br>
 🛠️ Languages and Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt-"C" width="40" height="40"/>&nbsp;
