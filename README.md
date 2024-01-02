@@ -23,6 +23,7 @@ About Me
 📫 jumanajouhar@gmail.com
 <br>
 <h2> Github Stats and Streaks</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumanajouhar" alt="jumanajouhar" /></a> </p>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jumanajouhar&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
