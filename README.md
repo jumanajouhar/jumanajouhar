@@ -2,7 +2,7 @@
 About Me
 </h3>
 👩‍💻 3rd year Computer Science & Engineering student. <br>
-🌱 Currently learning Applied Machine Learning in Python and Full Stack Web Development.<br>
+🌱 Currently learning Machine Learning and Tableau for Data Visualization.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
 🧡 Interests: Machine Learning, Frontend Web Development. <br>
@@ -24,9 +24,6 @@ About Me
 <br>
 <h2> Github Stats and Streaks</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumanajouhar" alt="jumanajouhar" /></a> </p>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=jumanajouhar&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumanajouhar&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
 <br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jumanajouhar"/>
 	  <br>
