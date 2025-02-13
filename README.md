@@ -2,7 +2,7 @@
 About Me
 </h3>
 👩‍💻 4th year Computer Science & Engineering student. <br>
-🌱 Currently learning Machine Learning and Tableau for Data Visualization.<br>
+🌱 Currently learning AI/ML Engineering.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
 🧡 Interests: Machine Learning, Data Analytics, Frontend Web Development. <br>
