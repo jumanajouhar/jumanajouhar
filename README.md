@@ -2,10 +2,10 @@
 ABOUT ME
 </h3>
 👩‍💻 Computer Science & Engineering Major. <br>
-🌱 Currently learning Data Analytics with Excel and R.<br>
+🌱 Currently learning Data Analytics.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
-🧡 Interests: Machine Learning, Data Analytics, Frontend Web Development. <br>
+🧡 Interests: Machine Learning, Data Analytics, Web Development. <br>
 📫 jumanajouhar.work@gmail.com
 <br>
 <br>
