@@ -1,7 +1,8 @@
 <h3>
 ABOUT ME
 </h3>
-👩‍💻 Computer Science & Engineering Major. <br>
+👩‍💻 Major: Computer Science & Engineering. <br>
+🤖 Minor: Robotics & Automation. <br>
 🌱 Currently learning Data Analytics.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
