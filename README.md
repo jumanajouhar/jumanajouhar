@@ -3,11 +3,11 @@ ABOUT ME
 </h3>
 👩‍💻 Major: Computer Science & Engineering. <br>
 🤖 Minor: Robotics & Automation. <br>
-🌱 Currently learning Data Analytics.<br>
+🌱 Currently learning Web Development.<br>
 ⚡ Like to learn new things in my free time. My favourite way to learn is by doing projects. <br>
 ✍️ Exploring content and report writing. <br>
 🧡 Interests: Machine Learning, Data Analytics, Web Development. <br>
-📫 jumanajouhar.work@gmail.com
+📫 jumanajouhar@gmail.com
 <br>
 <br>
 🛠️ Languages and Tools:
