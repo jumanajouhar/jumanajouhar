@@ -19,12 +19,6 @@ ABOUT ME
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <br>
 <br>
-<br>
-<strong> 🏆 GITHUB STATS & STREAKS </strong>
-<br>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumanajouhar" alt="jumanajouhar" /></a> </p>
-<br>
 
 <strong>TODAY'S QUOTE</strong>
 
