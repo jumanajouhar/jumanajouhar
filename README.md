@@ -6,8 +6,8 @@ ABOUT ME
 🌱 Always learning or working on something.<br>
 ⚡ Like to learn new things in my free time. <br>
 🧡 My favourite way to learn is by working on projects.<br>
-✍️ Exploring content and report writing. <br>
-📫 jumanajouhar@gmail.com
+📫 jumanajouhar@gmail.com <br>
+Portfolio: https://jumana-jouhar.vercel.app/
 <br>
 
 <br>
@@ -21,10 +21,8 @@ ABOUT ME
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <br>
 <br>
 
-<strong>TODAY'S QUOTE</strong>
-
+<strong>TODAY'S QUOTE</strong><br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-<br>
 <br>
 :coffee: Let's Connect:
 <p align="left">
