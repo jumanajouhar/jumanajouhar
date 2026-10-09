@@ -6,7 +6,7 @@ ABOUT ME
 🌱 Always learning or working on something.<br>
 ⚡ Like to learn new things in my free time. <br>
 🧡 My favourite way to learn is by working on projects.<br>
-📫 jumanajouhar@gmail.com <br>
+📫 jumanajouhar1@gmail.com <br>
 Portfolio: https://jumana-jouhar.vercel.app/
 <br>
 
